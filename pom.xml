@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 
 	<name>ksa-root</name>
-	<description>杭州凯思爱物流管理系统 - 根模型</description>
+	<description>KSA Project for Demos</description>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
